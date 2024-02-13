@@ -270,15 +270,80 @@ button{
     font-size: 20px;
 }
 .partnerbox{
+    background-image: url("./Images/image15.jpg");
+    background-repeat: no-repeat;
     height: 700px;
     margin: 50px;
     border: 1px solid black;
 }
-.partnerbox >img{
-    z-index: -1;
-    width: 100%;
-    height: 700px;
-}
 .partnerboxtext{
-
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    margin-top: 200px;
+    line-height: 60px;
+    color: red;
+}
+.partnerbutton{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+}
+.emailbox{
+    height: 200px;
+    background-color:rgb(4, 207, 207) ;
+    margin: 50px;
+    border-radius: 20px;
+}
+.emailtext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+}
+.emailaddress{
+    width: 250px;
+    height: 50px;
+    border: 2px solid gray;
+    /* text-align: center; */
+    font-size: 20px;
+}
+.emailbutton{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+}
+.footer{
+    height: 300px;
+    border-top: 3px solid red;
+}
+.footerboxes{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+    border-bottom: 3px solid gray;
+}
+.footerbox{
+    width: 300px;
+    height: 300px;
+}
+.footerheading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+.footertext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.footerbottom{
+    height: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
 }
