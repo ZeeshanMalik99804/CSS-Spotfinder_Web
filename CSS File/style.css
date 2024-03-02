@@ -123,6 +123,7 @@ button{
     height: 50px;
     font-size: 20px;
     color: white;
+    border-radius: 50px;
     background-color: red;
 }
 .image1{
@@ -166,6 +167,7 @@ button{
     margin-top: 50px;
     font-size: 20px;
     color: white;
+    border-radius: 50px;
     background-color: red;
 }
 .whymain{
@@ -238,6 +240,7 @@ button{
     margin: 0 35px;
     font-size: 20px;
     color: white;
+    border-radius: 50px;
     background-color: red;
 }
 .articlemain{
@@ -271,6 +274,7 @@ button{
 }
 .partnerbox{
     background-image: url("./Images/image15.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
     margin: 50px;
@@ -289,6 +293,7 @@ button{
     height: 50px;
     font-size: 20px;
     color: white;
+    border-radius: 50px;
     background-color: red;
 }
 .emailbox{
